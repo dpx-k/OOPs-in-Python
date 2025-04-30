@@ -8,3 +8,6 @@ print(id(x))
 
 y = "Deepak"
 print(id(y))
+
+z = 47
+print(id(z))
