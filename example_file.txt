@@ -1,0 +1,2 @@
+Hello, this is a simple file.
+This demonstrates file open and closing in Python.
